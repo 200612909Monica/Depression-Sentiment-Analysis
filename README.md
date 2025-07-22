@@ -1,4 +1,4 @@
-# Depression-Sentiment-Analysis
+
 # Depression Detection via Sentiment Analysis
 
 This project performs sentiment analysis on simulated social media posts to detect potential signs of depression.
